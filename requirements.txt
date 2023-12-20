@@ -6,3 +6,6 @@ parallel-pandas==0.6.2
 scikit-learn==1.3.2
 seaborn==0.13.0
 matplotlib==3.8.2
+transformers==4.36.2
+torch
+tqdm==4.66.1
