@@ -164,3 +164,7 @@ cython_debug/
 
 # Do not include the dataset
 yelp_dataset/*
+
+
+tokenized_test_dataset/*
+tokenized_train_dataset/*
