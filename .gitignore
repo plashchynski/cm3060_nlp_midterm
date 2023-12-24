@@ -166,8 +166,12 @@ cython_debug/
 yelp_dataset/*
 
 
-tokenized_test_dataset/*
-tokenized_train_dataset/*
+train_ds/*
+test_ds/*
 
 
 checkpoint-*/
+
+wandb/
+
+tmp_trainer/
