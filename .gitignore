@@ -168,3 +168,6 @@ yelp_dataset/*
 
 tokenized_test_dataset/*
 tokenized_train_dataset/*
+
+
+checkpoint-*/
