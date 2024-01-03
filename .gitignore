@@ -175,3 +175,6 @@ checkpoint-*/
 wandb/
 
 tmp_trainer/
+
+*.npy
+*.pkl
