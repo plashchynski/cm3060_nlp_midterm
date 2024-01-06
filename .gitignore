@@ -178,3 +178,5 @@ tmp_trainer/
 
 *.npy
 *.pkl
+
+*.model
